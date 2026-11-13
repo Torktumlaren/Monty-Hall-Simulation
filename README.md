@@ -8,10 +8,10 @@ Simply run `python MontyHall.py` and wait for it to finish executing.
 
 Output will look something like this*:
 ```
-Probability of success when staying: 33.33162%
-Probability of success when switching: 66.66838%
+Probability of success when staying: 33.34121%
+Probability of success when switching: 66.65879%
 
-10000000 Iterations completed in 1114.1057 milliseconds.
+10000000 iterations completed in 29311.309814453125 milliseconds.
 ```
 
 ### Java
@@ -19,10 +19,10 @@ Compile the source file using `javac MontyHall.java` and then run the output usi
 
 Output will look something like this*:
 ```
-Probability of success when staying: 33.3449%
-Probability of success when switching: 66.6551%
+Probability of success when staying: 33.344288%
+Probability of success when switching: 66.65571%
 
-10000000 iterations completed in 29864.617586135864 milliseconds.
+10000000 Iterations completed in 1108.0463 milliseconds.
 ```
 
 **The numbers in these example outputs came from running the programs on my old HP Zbook 15v, running CachyOS.*
